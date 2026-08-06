@@ -25,8 +25,13 @@ class LoopsPractice:
             iteration +=1
         print("Мониторинг завершен.")
 
+
+
+
 practice = LoopsPractice()
 practice.numbers_with_break()
+
+
 
 print()
 
